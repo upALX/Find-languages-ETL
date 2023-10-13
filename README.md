@@ -17,10 +17,6 @@ git clone git@github.com:upALX/Find-languages-ETL.git
 
 **2 - Waiting, because this project is under development** 
 
-## Make your mark :triangular_flag_on_post:      
-
-**If you have any problems with this app or have an idea that contributes, open a [issue](https://github.com/upALX/Find-languages-ETL/issues), [pull request](https://github.com/upALX/Find-languages-ETL/pulls) or find me on [Linkedin](https://www.linkedin.com/in/upalx/) :D**
-
 ## FAQ 🤔
 
 [What is ETL process?](https://cloud.google.com/learn/what-is-etl?hl=pt-br)
@@ -29,10 +25,14 @@ git clone git@github.com:upALX/Find-languages-ETL.git
 
 [What is data engineering? - a complete guideline](https://www.alura.com.br/artigos/engenharia-dados)
 
+## Make your mark :triangular_flag_on_post:      
+
+**If you have any problems with this app or have an idea that contributes, open a [issue](https://github.com/upALX/Find-languages-ETL/issues), [pull request](https://github.com/upALX/Find-languages-ETL/pulls) or find me on [Linkedin](https://www.linkedin.com/in/upalx/) :D**
+
+
 ## License :unlock:
 
 This project is under the [MIT license](https://github.com/upALX/Find-languages-ETL/blob/main/LICENSE).
 
-
-
+---
 *Developed with :purple_heart: by Alexandre*  
