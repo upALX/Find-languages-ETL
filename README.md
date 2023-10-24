@@ -30,6 +30,8 @@ source myenv/bin/activate
 pip install -r requirements.txt
 ```
 
+**Note: to use this project for any tasks, you need to have a GitHub token** 
+
 ## FAQ 🤔
 
 [What is ETL process?](https://cloud.google.com/learn/what-is-etl?hl=pt-br)
@@ -37,6 +39,8 @@ pip install -r requirements.txt
 [How i use and works request python lib?](https://requests.readthedocs.io/en/latest/user/quickstart/)
 
 [What is data engineering? - a complete guideline](https://www.alura.com.br/artigos/engenharia-dados)
+
+[What is a GitHub token?](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
 
 ## Make your mark :triangular_flag_on_post:      
 
