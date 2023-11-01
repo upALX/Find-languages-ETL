@@ -46,7 +46,6 @@ pip install -r requirements.txt
 
 **If you have any problems with this app or have an idea that contributes, open a [issue](https://github.com/upALX/Find-languages-ETL/issues), [pull request](https://github.com/upALX/Find-languages-ETL/pulls) or find me on [Linkedin](https://www.linkedin.com/in/upalx/) :D**
 
-
 ## License :unlock:
 
 This project is under the [MIT license](https://github.com/upALX/Find-languages-ETL/blob/main/LICENSE).
